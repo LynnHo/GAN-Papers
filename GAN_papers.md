@@ -15,3 +15,4 @@
 ### Applications
 #### Image ot Image Translation
 1. [CycleGAN](https://arxiv.org/abs/1703.10593)
+2. [DiscoGAN](https://arxiv.org/abs/1703.05192)

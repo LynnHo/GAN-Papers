@@ -1,9 +1,9 @@
 ### Frameworks
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
-1. [CGAN](arxiv.org/abs/1411.1784)
+1. [cGAN](arxiv.org/abs/1411.1784)
 
 ### Divergence, Objective Function
-1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434) - KL divergence
+1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434) - JS divergence
 2. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
     - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty
 3. [EBGAN](https://arxiv.org/abs/1609.03126) - D(x) = ||Dec(Enc(x)) − x||

@@ -2,6 +2,7 @@
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
 1. [cGAN](arxiv.org/abs/1411.1784)
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation
+1. [DeLiGAN](https://arxiv.org/abs/1706.02071)
 
 ### Divergence, Objective Function
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434) - JS divergence
@@ -10,6 +11,7 @@
 3. [EBGAN](https://arxiv.org/abs/1609.03126) - D(x) = ||Dec(Enc(x)) − x||
 4. [LSGAN](https://pdfs.semanticscholar.org/0bbc/35bdbd643fb520ce349bdd486ef2c490f1fc.pdf) - Pearson χ2 divergence
 5. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
+6. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance
 
 ### Evaluations of GANs
 1. [AMT perceptual studies - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)

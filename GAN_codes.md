@@ -5,3 +5,6 @@
 
 1. BEGAN
     - https://github.com/carpedm20/BEGAN-tensorflow
+
+1. LS-GAN
+    - https://github.com/guojunq

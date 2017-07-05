@@ -3,13 +3,13 @@
 1. [cGAN](arxiv.org/abs/1411.1784)
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation
 1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
-1. [AGE](https://arxiv.org/abs/1704.02304)
+1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity(bidirectional mapping)
 
 ### Divergence, Objective Function
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434) - JS divergence
 1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
     - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty
-1. [EBGAN](https://arxiv.org/abs/1609.03126) - D(x) = ||Dec(Enc(x)) − x||
+1. [EBGAN](https://arxiv.org/abs/1609.03126) - $D(x) = ||Dec(Enc(x)) − x||$
 1. [LSGAN(Least Squares GAN)](https://pdfs.semanticscholar.org/0bbc/35bdbd643fb520ce349bdd486ef2c490f1fc.pdf) - Pearson χ2 divergence
 1. [LS-GAN(Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
 1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss

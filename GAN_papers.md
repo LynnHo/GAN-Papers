@@ -23,7 +23,7 @@
 #### IPM
 1. [McGAN](https://arxiv.org/abs/1702.08398) - Mean and covariance matching
 1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
-    - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty
+    - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty, no capacity compromise
 1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin
 1. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance
 

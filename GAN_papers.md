@@ -7,14 +7,15 @@
 
 ### Divergence, Objective Function
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434) - JS divergence
-1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
-    - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty
 1. [EBGAN](https://arxiv.org/abs/1609.03126) - $D(x) = ||Dec(Enc(x)) − x||$
 1. [LSGAN(Least Squares GAN)](https://pdfs.semanticscholar.org/0bbc/35bdbd643fb520ce349bdd486ef2c490f1fc.pdf) - Pearson χ2 divergence
 1. [LS-GAN(Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
 1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
-1. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance
-1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin
+1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance, IPM
+    - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty
+1. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance, IPM
+1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin, IPM
+1. [f-GAN](https://arxiv.org/abs/1606.00709) - f-divergence
 
 ### Lantern space disentangling
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling

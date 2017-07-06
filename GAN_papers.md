@@ -13,9 +13,10 @@
 1. [EBGAN](https://arxiv.org/abs/1609.03126) - $D(x) = ||Dec(Enc(x)) − x||$
 1. [LS-GAN(Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
 1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
+1. [GMMN](http://proceedings.mlr.press/v37/li15.pdf) - MMD
 
 #### IPM
-1. [McGAN]()
+1. [McGAN](https://arxiv.org/abs/1702.08398)
 1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
     - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty
 1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin

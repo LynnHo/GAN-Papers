@@ -28,6 +28,7 @@
 
 ### Lantern space disentangling
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
+1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 
 
 ### Evaluations of GANs

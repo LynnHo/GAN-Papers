@@ -14,6 +14,10 @@
 1. [LS-GAN(Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
 1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
 1. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance
+1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin
+
+### Lantern space disentangling
+1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
 
 ### Evaluations of GANs
 1. [AMT perceptual studies - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)

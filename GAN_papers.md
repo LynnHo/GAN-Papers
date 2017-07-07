@@ -14,7 +14,9 @@
 1. [f-GAN](https://arxiv.org/abs/1606.00709) - f-divergence
 1. [EBGAN](https://arxiv.org/abs/1609.03126) - $D(x) = ||Dec(Enc(x)) − x||$
 1. [LS-GAN (Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
+    - https://github.com/guojunq
 1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
+    - https://github.com/carpedm20/BEGAN-tensorflow
 
 #### MMD
 1. [GMMN](http://proceedings.mlr.press/v37/li15.pdf)

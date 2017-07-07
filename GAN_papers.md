@@ -62,3 +62,7 @@
 1. [IcGAN](https://arxiv.org/abs/1611.06355)
 1. [Age-cGAN](https://arxiv.org/abs/1702.01983)
 1. [VAE/GAN](https://arxiv.org/abs/1512.09300) - Visual attribute vectors
+
+#### Face Frontalization/Profiling
+1. [TP-GAN](https://arxiv.org/abs/1704.04086)
+1. [DR-GAN](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)

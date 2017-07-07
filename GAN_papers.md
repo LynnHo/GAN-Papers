@@ -9,14 +9,11 @@
 
 
 ### Divergence, Objective Function
+
+#### f-Divergence
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434) - JS divergence
 1. [LSGAN (Least Squares GAN)](https://pdfs.semanticscholar.org/0bbc/35bdbd643fb520ce349bdd486ef2c490f1fc.pdf) - Pearson χ2 divergence
 1. [f-GAN](https://arxiv.org/abs/1606.00709) - f-divergence
-1. [EBGAN](https://arxiv.org/abs/1609.03126) - $D(x) = ||Dec(Enc(x)) − x||$
-1. [LS-GAN (Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
-    - https://github.com/guojunq
-1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
-    - https://github.com/carpedm20/BEGAN-tensorflow
 
 #### MMD
 1. [GMMN](http://proceedings.mlr.press/v37/li15.pdf)
@@ -29,8 +26,15 @@
 1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin
 1. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance
 
+#### Others
+1. [EBGAN](https://arxiv.org/abs/1609.03126) - $D(x) = ||Dec(Enc(x)) − x||$
+1. [LS-GAN (Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
+    - https://github.com/guojunq
+1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
+    - https://github.com/carpedm20/BEGAN-tensorflow
 
-### Lantern space disentangling
+
+### Lantern Space Disentangling
 1. [cGAN](arxiv.org/abs/1411.1784)
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling

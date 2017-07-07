@@ -23,7 +23,7 @@
 #### IPM
 1. [McGAN](https://arxiv.org/abs/1702.08398) - Mean and covariance matching
 1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
-    - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty, no capacity compromise
+    - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty, less capacity compromise
 1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin
 1. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance
 
@@ -32,6 +32,9 @@
 1. [cGAN](arxiv.org/abs/1411.1784)
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
+    - Easy comprehension - https://github.com/buriburisuri/sugartensor/blob/master/sugartensor/example/mnist_info_gan.py
+    - Supervised InfoGAN - https://github.com/buriburisuri/supervised_infogan
+    - Official( I don't like this code... ) - https://github.com/openai/InfoGAN
 
 
 ### Evaluations of GANs
@@ -47,3 +50,9 @@
 1. [CycleGAN](https://arxiv.org/abs/1703.10593)
 1. [DiscoGAN](https://arxiv.org/abs/1703.05192)
 1. [DualGAN](https://arxiv.org/abs/1704.02510)
+
+#### Face Editing
+1. [IcGAN](https://arxiv.org/abs/1611.06355)
+1. [Age-cGAN](https://arxiv.org/abs/1702.01983)
+1. [Fader Networks](https://arxiv.org/abs/1706.00409)
+1. [Learning Residual Images for Face Attribute Manipulation](https://arxiv.org/abs/1612.05363)

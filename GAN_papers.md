@@ -1,3 +1,4 @@
+---
 ### Frameworks
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
 1. [cGAN](arxiv.org/abs/1411.1784)
@@ -7,7 +8,7 @@
 1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two step generation
 1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
 
-
+---
 ### Objective Function
 
 #### f-Divergence
@@ -34,7 +35,7 @@
 1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
     - https://github.com/carpedm20/BEGAN-tensorflow
 
-
+---
 ### Representation Learning
 
 #### Lantern Space Disentangling
@@ -47,20 +48,20 @@
 #### Specifying Lantern Space Distribution
 1. [AAE](https://arxiv.org/abs/1511.06390)
 
-
+---
 ### Unclassified
 1. [Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [Unrooled GAN](https://arxiv.org/abs/1611.02163)
 1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
 
-
+---
 ### Evaluations of GANs
 1. [FCN score - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)
 1. [AMT perceptual studies - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)
 1. [Inception score - Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [Semantic segmentation metrics - CycleGAN](https://arxiv.org/abs/1703.10593)
 
-
+---
 ### Applications
 
 #### Domain Adaptation, Image to Image Translation

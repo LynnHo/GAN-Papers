@@ -79,6 +79,9 @@
 #### Inpainting
 1. 
 
+#### Super-Resolution
+1. [SRGAN](https://arxiv.org/abs/1609.04802)
+
 #### Domain Adaptation
 1. [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424)
 1. [Generate To Adapt: Aligning Domains using Generative Adversarial Networks](https://arxiv.org/abs/1704.01705)
@@ -86,21 +89,23 @@
 1. [UNIT](arxiv.org/abs/1703.00848)
 1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
 
-#### Super-Resolution
-1. [SRGAN](https://arxiv.org/abs/1609.04802)
+#### Text-to-Image Synthesis
+1. [GAN-INT-CLS](http://proceedings.mlr.press/v48/reed16.pdf)
+1. [GAWWN](http://papers.nips.cc/paper/6111-learning-what-and-where-to-draw)
+1. [StackGAN](https://arxiv.org/abs/1612.03242)
 
 #### Face Editing
-1. [Fader Networks](https://arxiv.org/abs/1706.00409)
-1. [Learning Residual Images for Face Attribute Manipulation](https://arxiv.org/abs/1612.05363)
-1. [GeneGAN](https://arxiv.org/abs/1705.04932) - Object transfiguration 
+1. [VAE/GAN](https://arxiv.org/abs/1512.09300) - Visual attribute vectors
 1. [Convolutional Network for Attribute-driven and Identity-preserving Human Face Generation](https://arxiv.org/abs/1608.06434)
+1. [IAN](https://arxiv.org/abs/1609.07093)
 1. [DIAT](https://arxiv.org/abs/1610.05586)
 1. [IcGAN](https://arxiv.org/abs/1611.06355)
+1. [Learning Residual Images for Face Attribute Manipulation](https://arxiv.org/abs/1612.05363)
 1. [Age-cGAN](https://arxiv.org/abs/1702.01983)
-1. [VAE/GAN](https://arxiv.org/abs/1512.09300) - Visual attribute vectors
 1. [UNIT](arxiv.org/abs/1703.00848)
-1. [IAN](https://arxiv.org/abs/1609.07093)
+1. [GeneGAN](https://arxiv.org/abs/1705.04932) - Object transfiguration 
+1. [Fader Networks](https://arxiv.org/abs/1706.00409)
 
 #### Face Frontalization/Profiling
-1. [TP-GAN](https://arxiv.org/abs/1704.04086)
 1. [DR-GAN](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)
+1. [TP-GAN](https://arxiv.org/abs/1704.04086)

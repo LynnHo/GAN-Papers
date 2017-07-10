@@ -64,11 +64,11 @@
 ---
 ### Applications
 
-#### Domain Adaptation, Image to Image Translation
+#### Image-to-Image Translation
 ##### Unpaired
 1. [DTN](https://arxiv.org/abs/1611.02200)
-1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
 1. [UNIT](arxiv.org/abs/1703.00848)
+1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
 1. [CycleGAN](https://arxiv.org/abs/1703.10593)
 1. [DiscoGAN](https://arxiv.org/abs/1703.05192)
 1. [DualGAN](https://arxiv.org/abs/1704.02510)
@@ -76,6 +76,18 @@
 1. [pix2pix/PatchGAN](https://arxiv.org/abs/1611.07004)
 1. [PAN](https://arxiv.org/abs/1706.09138)
 
+#### Inpainting
+1. 
+
+#### Domain Adaptation
+1. [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424)
+1. [Generate To Adapt: Aligning Domains using Generative Adversarial Networks](https://arxiv.org/abs/1704.01705)
+1. [DTN](https://arxiv.org/abs/1611.02200)
+1. [UNIT](arxiv.org/abs/1703.00848)
+1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
+
+#### Super-Resolution
+1. [SRGAN](https://arxiv.org/abs/1609.04802)
 
 #### Face Editing
 1. [Fader Networks](https://arxiv.org/abs/1706.00409)

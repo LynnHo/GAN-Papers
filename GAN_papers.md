@@ -110,3 +110,6 @@
 #### Face Frontalization/Profiling
 1. [DR-GAN](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)
 1. [TP-GAN](https://arxiv.org/abs/1704.04086)
+
+#### Others
+1. [ID-CGAN](https://arxiv.org/abs/1701.05957) - Image de-raining

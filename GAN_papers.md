@@ -74,7 +74,7 @@
 1. [DualGAN](https://arxiv.org/abs/1704.02510)
 ##### Paired
 1. [pix2pix/PatchGAN](https://arxiv.org/abs/1611.07004)
-1. [PAN](https://arxiv.org/abs/1706.09138)
+1. [PAN](https://arxiv.org/abs/1706.09138) - Perceptual adversarial loss
 
 #### Inpainting
 1. [Context Encoder](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pathak_Context_Encoders_Feature_CVPR_2016_paper.html)
@@ -112,4 +112,5 @@
 1. [TP-GAN](https://arxiv.org/abs/1704.04086)
 
 #### Others
+1. [iGAN](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_36) - Image manipulation
 1. [ID-CGAN](https://arxiv.org/abs/1701.05957) - Image de-raining

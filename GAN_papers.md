@@ -77,7 +77,7 @@
 1. [PAN](https://arxiv.org/abs/1706.09138)
 
 #### Inpainting
-1. 
+1. [Context Encoder](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pathak_Context_Encoders_Feature_CVPR_2016_paper.html)
 
 #### Super-Resolution
 1. [SRGAN](https://arxiv.org/abs/1609.04802)

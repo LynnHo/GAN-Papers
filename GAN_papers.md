@@ -42,7 +42,7 @@
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
     - Easy comprehension - https://github.com/buriburisuri/sugartensor/blob/master/sugartensor/example/mnist_info_gan.py
     - Supervised InfoGAN - https://github.com/buriburisuri/supervised_infogan
-    - Official( I don't like this code... ) - https://github.com/openai/InfoGAN
+    - Official - https://github.com/openai/InfoGAN
 
 #### Specifying Lantern Space Distribution
 1. [AAE](https://arxiv.org/abs/1511.06390)
@@ -66,6 +66,7 @@
 #### Domain Transferring/Adaptation, Image to Image Translation
 1. [DTN](https://arxiv.org/abs/1611.02200)
 1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
+1. [UNIT](arxiv.org/abs/1703.00848)
 1. [CycleGAN](https://arxiv.org/abs/1703.10593)
 1. [DiscoGAN](https://arxiv.org/abs/1703.05192)
 1. [DualGAN](https://arxiv.org/abs/1704.02510)

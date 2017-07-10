@@ -4,6 +4,7 @@
 1. [AcGAN](https://arxiv.org/abs/1610.09585)
 1. [InfoGAN](https://arxiv.org/abs/1606.03657)
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation
+1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two step generation
 1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
 
 
@@ -34,13 +35,17 @@
     - https://github.com/carpedm20/BEGAN-tensorflow
 
 
-### Lantern Space Disentangling
-1. [cGAN](arxiv.org/abs/1411.1784)
+### Representation Learning
+
+#### Lantern Space Disentangling
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
     - Easy comprehension - https://github.com/buriburisuri/sugartensor/blob/master/sugartensor/example/mnist_info_gan.py
     - Supervised InfoGAN - https://github.com/buriburisuri/supervised_infogan
     - Official( I don't like this code... ) - https://github.com/openai/InfoGAN
+
+#### Specifying Lantern Space Distribution
+1. [AAE](https://arxiv.org/abs/1511.06390)
 
 
 ### Evaluations of GANs
@@ -74,3 +79,4 @@
 
 ### Unclassified
 1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
+1. [Improved GAN](https://arxiv.org/abs/1606.03498)

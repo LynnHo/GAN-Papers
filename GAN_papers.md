@@ -48,6 +48,11 @@
 1. [AAE](https://arxiv.org/abs/1511.06390)
 
 
+### Unclassified
+1. [Improved GAN](https://arxiv.org/abs/1606.03498)
+1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
+
+
 ### Evaluations of GANs
 1. [FCN score - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)
 1. [AMT perceptual studies - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)
@@ -71,12 +76,11 @@
 1. [IcGAN](https://arxiv.org/abs/1611.06355)
 1. [Age-cGAN](https://arxiv.org/abs/1702.01983)
 1. [VAE/GAN](https://arxiv.org/abs/1512.09300) - Visual attribute vectors
+1. [IAN](https://arxiv.org/abs/1609.07093)
 
 #### Face Frontalization/Profiling
 1. [TP-GAN](https://arxiv.org/abs/1704.04086)
 1. [DR-GAN](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)
 
 
-### Unclassified
-1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
-1. [Improved GAN](https://arxiv.org/abs/1606.03498)
+

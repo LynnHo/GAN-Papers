@@ -2,8 +2,8 @@
 ### Frameworks
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
 1. [cGAN](arxiv.org/abs/1411.1784)
-1. [AcGAN](https://arxiv.org/abs/1610.09585)
 1. [InfoGAN](https://arxiv.org/abs/1606.03657)
+1. [AcGAN](https://arxiv.org/abs/1610.09585)
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation
 1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two step generation
 1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)

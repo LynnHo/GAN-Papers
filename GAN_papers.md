@@ -63,7 +63,7 @@
 
 ### Applications
 
-#### Domain Transferring/Adaptation, Image to Image Translation
+#### Domain Transferring/Adaptation, Image to Image Translation (Unpaired)
 1. [DTN](https://arxiv.org/abs/1611.02200)
 1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
 1. [UNIT](arxiv.org/abs/1703.00848)
@@ -80,6 +80,7 @@
 1. [IcGAN](https://arxiv.org/abs/1611.06355)
 1. [Age-cGAN](https://arxiv.org/abs/1702.01983)
 1. [VAE/GAN](https://arxiv.org/abs/1512.09300) - Visual attribute vectors
+1. [UNIT](arxiv.org/abs/1703.00848)
 1. [IAN](https://arxiv.org/abs/1609.07093)
 
 #### Face Frontalization/Profiling

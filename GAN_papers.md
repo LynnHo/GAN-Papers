@@ -98,14 +98,14 @@
 #### Face Editing
 1. [VAE/GAN](https://arxiv.org/abs/1512.09300) - Visual attribute vectors
 1. [Convolutional Network for Attribute-driven and Identity-preserving Human Face Generation](https://arxiv.org/abs/1608.06434)
-1. [IAN](https://arxiv.org/abs/1609.07093)
 1. [DIAT](https://arxiv.org/abs/1610.05586)
-1. [IcGAN](https://arxiv.org/abs/1611.06355)
 1. [Learning Residual Images for Face Attribute Manipulation](https://arxiv.org/abs/1612.05363)
+1. [IcGAN](https://arxiv.org/abs/1611.06355)
 1. [Age-cGAN](https://arxiv.org/abs/1702.01983)
+1. [Fader Networks](https://arxiv.org/abs/1706.00409)
 1. [UNIT](arxiv.org/abs/1703.00848)
 1. [GeneGAN](https://arxiv.org/abs/1705.04932) - Object transfiguration 
-1. [Fader Networks](https://arxiv.org/abs/1706.00409)
+1. [IAN](https://arxiv.org/abs/1609.07093)
 
 #### Face Frontalization/Profiling
 1. [DR-GAN](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)

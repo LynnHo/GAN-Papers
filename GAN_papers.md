@@ -21,11 +21,11 @@
 1. [MMD nets](https://arxiv.org/abs/1505.03906)
 
 #### IPM
-1. [McGAN](https://arxiv.org/abs/1702.08398) - Mean and covariance matching
 1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
     - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty, less capacity compromise
 1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin
 1. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance
+1. [McGAN](https://arxiv.org/abs/1702.08398) - Mean and covariance matching
 
 #### Others
 1. [EBGAN](https://arxiv.org/abs/1609.03126) - $D(x) = ||Dec(Enc(x)) − x||$

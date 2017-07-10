@@ -4,11 +4,10 @@
 1. [AcGAN](https://arxiv.org/abs/1610.09585)
 1. [InfoGAN](https://arxiv.org/abs/1606.03657)
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation
-1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
 1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
 
 
-### Divergence, Objective Function
+### Objective Function
 
 #### f-Divergence
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434) - JS divergence
@@ -28,6 +27,7 @@
 
 #### Others
 1. [EBGAN](https://arxiv.org/abs/1609.03126) - $D(x) = ||Dec(Enc(x)) − x||$
+1. [CatGAN](https://arxiv.org/abs/1511.06390) - Entropy of P(y|x)
 1. [LS-GAN (Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
     - https://github.com/guojunq
 1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
@@ -70,3 +70,7 @@
 #### Face Frontalization/Profiling
 1. [TP-GAN](https://arxiv.org/abs/1704.04086)
 1. [DR-GAN](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)
+
+
+### Unclassified
+1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution

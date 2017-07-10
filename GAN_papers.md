@@ -72,7 +72,7 @@
 1. [DiscoGAN](https://arxiv.org/abs/1703.05192)
 1. [DualGAN](https://arxiv.org/abs/1704.02510)
 ##### Paired
-1. [pix2pix](https://arxiv.org/abs/1611.07004) - Paired data for training
+1. [pix2pix](https://arxiv.org/abs/1611.07004)
 
 
 #### Face Editing

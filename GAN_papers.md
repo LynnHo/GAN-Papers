@@ -63,7 +63,9 @@
 
 ### Applications
 
-#### Image to Image Translation
+#### Domain Transferring/Adaptation, Image to Image Translation
+1. [DTN](https://arxiv.org/abs/1611.02200)
+1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
 1. [CycleGAN](https://arxiv.org/abs/1703.10593)
 1. [DiscoGAN](https://arxiv.org/abs/1703.05192)
 1. [DualGAN](https://arxiv.org/abs/1704.02510)

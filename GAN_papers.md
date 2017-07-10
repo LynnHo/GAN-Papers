@@ -56,9 +56,9 @@
 
 ---
 ### Evaluations of GANs
+1. [Inception score - Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [FCN score - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)
 1. [AMT perceptual studies - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)
-1. [Inception score - Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [Semantic segmentation metrics - CycleGAN](https://arxiv.org/abs/1703.10593)
 
 ---

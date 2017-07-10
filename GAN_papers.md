@@ -39,11 +39,11 @@
 ### Representation Learning
 
 #### Lantern Space Disentangling
-1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
     - Easy comprehension - https://github.com/buriburisuri/sugartensor/blob/master/sugartensor/example/mnist_info_gan.py
     - Supervised InfoGAN - https://github.com/buriburisuri/supervised_infogan
     - Official - https://github.com/openai/InfoGAN
+1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 
 #### Specifying Lantern Space Distribution
 1. [AAE](https://arxiv.org/abs/1511.06390)

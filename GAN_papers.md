@@ -53,6 +53,7 @@
 1. [Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [Unrooled GAN](https://arxiv.org/abs/1611.02163)
 1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
+1. [TTUR](https://arxiv.org/abs/1706.08500)
 
 ---
 ### Evaluations of GANs

@@ -16,11 +16,11 @@
 1. [LSGAN (Least Squares GAN)](https://pdfs.semanticscholar.org/0bbc/35bdbd643fb520ce349bdd486ef2c490f1fc.pdf) - Pearson χ2 divergence
 1. [f-GAN](https://arxiv.org/abs/1606.00709) - f-divergence
 
-#### MMD
+#### Maximum Mean Discrepancy (MMD)
 1. [GMMN](http://proceedings.mlr.press/v37/li15.pdf)
 1. [MMD nets](https://arxiv.org/abs/1505.03906)
 
-#### IPM
+#### Integral Probability Metrics (IPM)
 1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
     - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty, less capacity compromise
 1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin

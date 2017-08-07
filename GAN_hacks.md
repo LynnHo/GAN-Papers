@@ -9,4 +9,5 @@
 3. Network architectures
     - 
 
-4. Use Layer Normalization or Instance Normalization in D and Batch Normalization in G when using WGAN-GP
+4. TV loss for smoothness
+    - https://link.springer.com/chapter/10.1007/978-3-319-46475-6_43

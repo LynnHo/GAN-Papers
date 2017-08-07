@@ -49,7 +49,7 @@
 1. [McGAN](https://arxiv.org/abs/1702.08398) - Mean and covariance matching
 
 #### Others
-1. [CatGAN](https://arxiv.org/abs/1511.06390) - Entropy of P(Y|X)
+1. [CatGAN](https://arxiv.org/abs/1511.06390) - Entropy of $P(Y|X)$
 1. [EBGAN](https://arxiv.org/abs/1609.03126) - $D(x) = ||Dec(Enc(x)) − x||$
 1. [LS-GAN (Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
     - https://github.com/guojunq

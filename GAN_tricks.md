@@ -1,3 +1,5 @@
+---
+### Tricks
 1. Use leaky relu in down-sampling and relu in up-sampling 
     - https://arxiv.org/abs/1703.05192
 
@@ -9,5 +11,7 @@
 3. Network architectures
     - 
 
-4. TV loss for smoothness
+---
+### Enhancement
+1. TV loss for smoothness
     - https://link.springer.com/chapter/10.1007/978-3-319-46475-6_43

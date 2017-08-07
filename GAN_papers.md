@@ -11,6 +11,18 @@
 1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
 1. [ALI](https://arxiv.org/abs/1606.00704)
 
+---
+### Function
+
+#### $p_g(x)$~$p_{data}(x)$
+1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
+
+#### $p_g(x|y)$~$p_{data}(x|y)$ or $p_g(x|h)$~$p_{data}(x|h)$, where $y$ is label and $h$ is lantern variable
+1. [cGAN](arxiv.org/abs/1411.1784) - Label-conditioning generation
+1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
+1. [ss-InfoGAN](https://arxiv.org/abs/1707.04487)
+1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
+
 
 ---
 ### Objective Function

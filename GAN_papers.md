@@ -26,7 +26,7 @@
 
 #### $g(Z),Z$ ~ $X,E(X)$
 1. [ALI](https://arxiv.org/abs/1606.00704)
-1. [AGE](https://arxiv.org/abs/1704.02304)
+1. [AGE](https://arxiv.org/abs/1704.02304) - encoder-generator reciprocity (bidirectional mapping)
 
 
 ---

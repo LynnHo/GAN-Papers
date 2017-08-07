@@ -5,9 +5,7 @@
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
 1. [ss-InfoGAN](https://arxiv.org/abs/1707.04487)
-1. [AAE](https://arxiv.org/abs/1511.06390) - Specifying lantern space distribution
 1. [ALI](https://arxiv.org/abs/1606.00704)
-1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation
 1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two-step generation
 1. [AdaGAN](https://arxiv.org/abs/1701.02386) - Multiple generative models
@@ -56,6 +54,8 @@
 1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
     - https://github.com/carpedm20/BEGAN-tensorflow
 1. [Softmax GAN](https://arxiv.org/abs/1704.06191)
+1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
+
 
 ---
 ### Representation Learning
@@ -69,7 +69,6 @@
 
 #### Specifying Lantern Space Distribution
 1. [AAE](https://arxiv.org/abs/1511.06390)
-1. [ALI](https://arxiv.org/abs/1606.00704)
 1. [AGE](https://arxiv.org/abs/1704.02304)
 
 

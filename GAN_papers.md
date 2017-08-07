@@ -23,9 +23,10 @@
 1. [InfoGAN](https://arxiv.org/abs/1606.03657)
 1. [AcGAN](https://arxiv.org/abs/1610.09585)
 
-#### $g(Z)$ ~ $X$ and $E(X)$ ~ $Z$
+#### $g(Z)$ ~ $X$, $E(X)$ ~ $Z$ and $G(E(X))$ = $X$
 1. [ALI](https://arxiv.org/abs/1606.00704)
 1. [AGE](https://arxiv.org/abs/1704.02304)
+1. [AAE](https://arxiv.org/abs/1511.06390)
 
 
 ---
@@ -68,6 +69,8 @@
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 
 #### Specifying Lantern Space Distribution
+1. [ALI](https://arxiv.org/abs/1606.00704)
+1. [AGE](https://arxiv.org/abs/1704.02304)
 1. [AAE](https://arxiv.org/abs/1511.06390)
 
 ---

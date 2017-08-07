@@ -19,8 +19,8 @@
 
 #### $g(Z|Y)$ ~ $X|Y$, where $Y$ is label or lantern variable
 1. [cGAN](arxiv.org/abs/1411.1784)
-1. [InfoGAN](https://arxiv.org/abs/1606.03657)
 1. [AcGAN](https://arxiv.org/abs/1610.09585)
+1. [InfoGAN](https://arxiv.org/abs/1606.03657)
 
 #### $g(Z),Z$ ~ $X,E(X)$
 1. [ALI](https://arxiv.org/abs/1606.00704)
@@ -65,6 +65,7 @@
     - Easy comprehension - https://github.com/buriburisuri/sugartensor/blob/master/sugartensor/example/mnist_info_gan.py
     - Supervised InfoGAN - https://github.com/buriburisuri/supervised_infogan
     - Official - https://github.com/openai/InfoGAN
+1. [ss-InfoGAN](https://arxiv.org/abs/1707.04487)
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 
 #### Specifying Lantern Space Distribution

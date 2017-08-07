@@ -8,20 +8,24 @@
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation
 1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two-step generation
 1. [AdaGAN](https://arxiv.org/abs/1701.02386) - Multiple generative models
-1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
 1. [ALI](https://arxiv.org/abs/1606.00704)
+1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
+
 
 ---
-### Function
+### Function ('~' means 'match')
 
-#### $p_g(x)$~$p_{data}(x)$
+#### $p_g(x)$ ~ $p_{data}(x)$
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
 
-#### $p_g(x|y)$~$p_{data}(x|y)$ or $p_g(x|h)$~$p_{data}(x|h)$, where $y$ is label and $h$ is lantern variable
+#### $p_g(x|y)$ ~ $p_{data}(x|y)$ or $p_g(x|h)$ ~ $p_{data}(x|h)$, where $y$ is label and $h$ is lantern variable
 1. [cGAN](arxiv.org/abs/1411.1784) - Label-conditioning generation
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
-1. [ss-InfoGAN](https://arxiv.org/abs/1707.04487)
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
+
+#### $p_{data}(x)p(z|x)$ ~ $q_{prior}(z)q(x|z)$
+1. [ALI](https://arxiv.org/abs/1606.00704)
+1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
 
 
 ---
@@ -39,7 +43,7 @@
 
 #### Integral Probability Metrics (IPM)
 1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
-    - [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty, less capacity compromise
+1. [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty, less capacity compromise
 1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin
 1. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance
 1. [McGAN](https://arxiv.org/abs/1702.08398) - Mean and covariance matching

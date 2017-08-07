@@ -38,6 +38,7 @@
     - https://github.com/guojunq
 1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
     - https://github.com/carpedm20/BEGAN-tensorflow
+1. [Softmax GAN](https://arxiv.org/abs/1704.06191)
 
 ---
 ### Representation Learning
@@ -78,6 +79,7 @@
 1. [CycleGAN](https://arxiv.org/abs/1703.10593)
 1. [DiscoGAN](https://arxiv.org/abs/1703.05192)
 1. [DualGAN](https://arxiv.org/abs/1704.02510)
+1. [constrast-GAN](https://arxiv.org/abs/1708.00315)
 ##### Paired
 1. [pix2pix/PatchGAN](https://arxiv.org/abs/1611.07004)
 1. [PAN](https://arxiv.org/abs/1706.09138) - Perceptual adversarial loss

@@ -9,6 +9,7 @@
 1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two-step generation
 1. [AdaGAN](https://arxiv.org/abs/1701.02386) - Multiple generative models
 1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
+1. [ALI](https://arxiv.org/abs/1606.00704)
 
 
 ---

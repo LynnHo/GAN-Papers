@@ -5,9 +5,9 @@
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
 1. [ss-InfoGAN](https://arxiv.org/abs/1707.04487)
+1. [AAE](https://arxiv.org/abs/1511.06390) - Specifying lantern space distribution
 1. [ALI](https://arxiv.org/abs/1606.00704)
 1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
-1. [AAE](https://arxiv.org/abs/1511.06390) - Specifying lantern space distribution
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation
 1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two-step generation
 1. [AdaGAN](https://arxiv.org/abs/1701.02386) - Multiple generative models
@@ -69,9 +69,10 @@
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 
 #### Specifying Lantern Space Distribution
+1. [AAE](https://arxiv.org/abs/1511.06390)
 1. [ALI](https://arxiv.org/abs/1606.00704)
 1. [AGE](https://arxiv.org/abs/1704.02304)
-1. [AAE](https://arxiv.org/abs/1511.06390)
+
 
 ---
 ### Unclassified

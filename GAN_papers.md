@@ -37,9 +37,6 @@
 1. [f-GANs](https://arxiv.org/abs/1707.04385)
 1. [DRGAN](https://arxiv.org/abs/1705.07215) - Vanilla GAN with gradient penalty
 
-#### Maximum Mean Discrepancy (MMD)
-1. [GMMN](http://proceedings.mlr.press/v37/li15.pdf)
-1. [MMD nets](https://arxiv.org/abs/1505.03906)
 
 #### Integral Probability Metrics (IPM)
 1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
@@ -47,6 +44,9 @@
 1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin
 1. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance
 1. [McGAN](https://arxiv.org/abs/1702.08398) - Mean and covariance matching
+##### Maximum Mean Discrepancy (MMD)
+1. [GMMN](http://proceedings.mlr.press/v37/li15.pdf)
+1. [MMD nets](https://arxiv.org/abs/1505.03906)
 
 #### Others
 1. [CatGAN](https://arxiv.org/abs/1511.06390) - Entropy of $P(Y|X)$

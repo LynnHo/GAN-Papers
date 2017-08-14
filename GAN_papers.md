@@ -67,6 +67,7 @@
 1. [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty, less capacity compromise
 1. [LS-GAN (Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
 1. [DRGAN](https://arxiv.org/abs/1705.07215) - Vanilla GAN with gradient penalty
+1. [Cramér GAN](https://arxiv.org/abs/1705.10743) - Cramér Distance
 
 
 ---

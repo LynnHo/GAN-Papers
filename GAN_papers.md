@@ -57,6 +57,8 @@
     - https://github.com/carpedm20/BEGAN-tensorflow
 1. [Softmax GAN](https://arxiv.org/abs/1704.06191)
 1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
+1. [Cramér GAN](https://arxiv.org/abs/1705.10743) - Cramér Distance
+1. [LDGAN](https://arxiv.org/abs/1705.10743)
 
 
 ---

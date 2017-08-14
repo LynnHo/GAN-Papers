@@ -62,6 +62,11 @@
 
 
 ---
+### Regularized GAN
+
+
+
+---
 ### Representation Learning
 
 #### Lantern Space Disentangling
@@ -151,5 +156,7 @@
 1. [ID-CGAN](https://arxiv.org/abs/1701.05957) - Image de-raining
 1. [TVSN](https://arxiv.org/abs/1703.02921) - 3D View Synthesis
 
+
+---
 ### Projects
 1. [Create Anime Characters with A.I. !](http://make.girls.moe/technical_report.pdf)

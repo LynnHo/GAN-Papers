@@ -63,7 +63,10 @@
 
 ---
 ### Regularized GAN
-
+1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
+1. [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty, less capacity compromise
+1. [LS-GAN (Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
+1. [DRGAN](https://arxiv.org/abs/1705.07215) - Vanilla GAN with gradient penalty
 
 
 ---

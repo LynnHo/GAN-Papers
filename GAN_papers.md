@@ -64,6 +64,7 @@
 ### Regularized GAN
 1. [DRGAN](https://arxiv.org/abs/1705.07215) - Vanilla GAN with gradient penalty
 1. [Cramér GAN](https://arxiv.org/abs/1705.10743) - Cramér Distance
+1. [Stabilizing Training of Generative Adversarial Networks through Regularization](https://arxiv.org/abs/1705.09367)
 
 
 ---

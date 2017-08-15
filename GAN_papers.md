@@ -40,7 +40,7 @@
 #### Integral Probability Metrics (IPM)
 1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
 1. [WGAN-GP](https://arxiv.org/abs/1704.00028) - Gradient penalty, less capacity compromise
-1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin
+1. [Geometric GAN](https://arxiv.org/abs/1705.02894)
 1. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance
 1. [McGAN](https://arxiv.org/abs/1702.08398) - Mean and covariance matching
 ##### Maximum Mean Discrepancy (MMD)

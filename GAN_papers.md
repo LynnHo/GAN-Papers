@@ -44,8 +44,7 @@
 1. [Geometric GAN](https://arxiv.org/abs/1705.02894) - SVM margin
 1. [Fisher GAN](https://arxiv.org/abs/1705.09675) - Chi-squared distance
 1. [McGAN](https://arxiv.org/abs/1702.08398) - Mean and covariance matching
-
-#### Maximum Mean Discrepancy (MMD)
+##### Maximum Mean Discrepancy (MMD)
 1. [GMMN](http://proceedings.mlr.press/v37/li15.pdf)
 1. [MMD nets](https://arxiv.org/abs/1505.03906)
 

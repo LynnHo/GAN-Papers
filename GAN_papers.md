@@ -35,7 +35,6 @@
 1. [LSGAN (Least Squares GAN)](https://pdfs.semanticscholar.org/0bbc/35bdbd643fb520ce349bdd486ef2c490f1fc.pdf) - Pearson χ2 divergence
 1. [f-GAN](https://arxiv.org/abs/1606.00709) - f-divergence, variational divergence minimization
 1. [f-GANs](https://arxiv.org/abs/1707.04385)
-1. [DRGAN](https://arxiv.org/abs/1705.07215) - Vanilla GAN with gradient penalty
 
 
 #### Integral Probability Metrics (IPM)

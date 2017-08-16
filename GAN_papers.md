@@ -92,12 +92,14 @@
 1. [TTUR](https://arxiv.org/abs/1706.08500)
 1. [AM-GAN](https://arxiv.org/abs/1703.02000)
 
+
 ---
 ### Evaluations of GANs
 1. [Inception Score - Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [FCN Score - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)
 1. [AMT Perceptual Studies - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)
 1. [Semantic Segmentation Metrics - CycleGAN](https://arxiv.org/abs/1703.10593)
+
 
 ---
 ### Applications

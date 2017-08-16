@@ -159,6 +159,7 @@
 1. [Image Denoising via CNNs: An Adversarial Approach](https://arxiv.org/abs/1708.00159)
 1. [SCAN](https://arxiv.org/abs/1703.08770) - Organ segmentation
 1. [DI2IN](arxiv.org/abs/1707.08037) - Liver segmentation
+1. [Perceptual GAN](https://arxiv.org/abs/1706.05274) - Small object detection
 
 
 ---

@@ -92,7 +92,7 @@
 1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
 1. [TTUR](https://arxiv.org/abs/1706.08500)
 1. [AM-GAN](https://arxiv.org/abs/1703.02000)
-
+1. [DeePSiM](http://arxiv.org/abs/1602.02644)
 
 ---
 ### Evaluations of GANs

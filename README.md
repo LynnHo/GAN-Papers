@@ -84,7 +84,8 @@
 1. [AGE](https://arxiv.org/abs/1704.02304)
 
 
---- Semi-supervised Learning
+--- 
+### Semi-supervised Learning
 1. [Triple-GAN](https://arxiv.org/abs/1703.02291)
 
 

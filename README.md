@@ -84,6 +84,10 @@
 1. [AGE](https://arxiv.org/abs/1704.02304)
 
 
+--- Semi-supervised Learning
+1. [Triple-GAN](https://arxiv.org/abs/1703.02291)
+
+
 ---
 ### Unclassified
 1. [Improved GAN](https://arxiv.org/abs/1606.03498)

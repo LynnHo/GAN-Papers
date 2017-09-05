@@ -5,7 +5,7 @@
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
-1. [ALI](https://arxiv.org/abs/1606.00704) - match p(g(z),z) and q(x,E(x))
+1. [ALI](https://arxiv.org/abs/1606.00704) - match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
 
 ---
 ### Frameworks
@@ -15,7 +15,7 @@
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
 1. [ss-InfoGAN](https://arxiv.org/abs/1707.04487) <!-- TODO -->
-1. [ALI](https://arxiv.org/abs/1606.00704) - match p(g(z),z) and q(x,E(x))
+1. [ALI](https://arxiv.org/abs/1606.00704) - match p(G(z),z) and q(x,E(x))
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation
 1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two-step generation
 1. [AdaGAN](https://arxiv.org/abs/1701.02386) - Multiple generative models
@@ -34,7 +34,7 @@
 1. [InfoGAN](https://arxiv.org/abs/1606.03657)
 
 #### $g(Z),Z$ ~ $X,E(X)$
-1. [ALI](https://arxiv.org/abs/1606.00704) - match p(g(z),z) and q(x,E(x))
+1. [ALI](https://arxiv.org/abs/1606.00704) - match p(G(z),z) and q(x,E(x))
 
 
 ---

@@ -15,7 +15,6 @@
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
-1. [ss-InfoGAN](https://arxiv.org/abs/1707.04487) <!-- TODO -->
 1. [ALI](https://arxiv.org/abs/1606.00704) - match p(G(z),z) and q(x,E(x))
 1. [BiGAN](https://arxiv.org/abs/1605.09782) - Same as ALI
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation <!-- TODO -->
@@ -86,7 +85,6 @@
     - Easy comprehension - https://github.com/buriburisuri/sugartensor/blob/master/sugartensor/example/mnist_info_gan.py
     - Supervised InfoGAN - https://github.com/buriburisuri/supervised_infogan
     - Official - https://github.com/openai/InfoGAN
-1. [ss-InfoGAN](https://arxiv.org/abs/1707.04487)
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 
 #### Specifying Lantern Space Distribution
@@ -102,6 +100,7 @@
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [Triple-GAN](https://arxiv.org/abs/1703.02291)
+1. [ss-InfoGAN](https://arxiv.org/abs/1707.04487)
 
 
 ---

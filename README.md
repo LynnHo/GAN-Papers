@@ -5,7 +5,8 @@
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
-1. [ALI](https://arxiv.org/abs/1606.00704) - match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
+1. [ALI](https://arxiv.org/abs/1606.00704) - Match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
+1. [BiGAN](https://arxiv.org/abs/1605.09782) - Same as ALI
 
 ---
 ### Frameworks
@@ -16,6 +17,7 @@
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
 1. [ss-InfoGAN](https://arxiv.org/abs/1707.04487) <!-- TODO -->
 1. [ALI](https://arxiv.org/abs/1606.00704) - match p(G(z),z) and q(x,E(x))
+1. [BiGAN](https://arxiv.org/abs/1605.09782) - Same as ALI
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation
 1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two-step generation
 1. [AdaGAN](https://arxiv.org/abs/1701.02386) - Multiple generative models
@@ -45,7 +47,6 @@
 1. [LSGAN (Least Squares GAN)](https://pdfs.semanticscholar.org/0bbc/35bdbd643fb520ce349bdd486ef2c490f1fc.pdf) - Pearson χ2 divergence
 1. [f-GAN](https://arxiv.org/abs/1606.00709) - f-divergence, variational divergence minimization
 1. [f-GANs](https://arxiv.org/abs/1707.04385)
-
 
 #### Integral Probability Metrics (IPM)
 1. [WGAN](https://arxiv.org/abs/1701.07875) - Wasserstein distance
@@ -90,6 +91,8 @@
 
 #### Specifying Lantern Space Distribution
 1. [AAE](https://arxiv.org/abs/1511.06390)
+1. [ALI](https://arxiv.org/abs/1606.00704) - Match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
+1. [BiGAN](https://arxiv.org/abs/1605.09782) - Same as ALI
 1. [AGE](https://arxiv.org/abs/1704.02304)
 
 
@@ -97,16 +100,6 @@
 ### Semi-supervised Learning
 1. [Triple-GAN](https://arxiv.org/abs/1703.02291)
 
-
----
-### Unclassified
-1. [Improved GAN](https://arxiv.org/abs/1606.03498)
-1. [Unrooled GAN](https://arxiv.org/abs/1611.02163)
-1. [MDGAN](https://arxiv.org/abs/1612.02136)
-1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
-1. [TTUR](https://arxiv.org/abs/1706.08500)
-1. [AM-GAN](https://arxiv.org/abs/1703.02000)
-1. [DeePSiM](http://arxiv.org/abs/1602.02644)
 
 ---
 ### Evaluations of GANs
@@ -182,3 +175,14 @@
 ---
 ### Projects
 1. [Create Anime Characters with A.I. !](http://make.girls.moe/technical_report.pdf)
+
+
+---
+### Unclassified
+1. [Improved GAN](https://arxiv.org/abs/1606.03498)
+1. [Unrooled GAN](https://arxiv.org/abs/1611.02163)
+1. [MDGAN](https://arxiv.org/abs/1612.02136)
+1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
+1. [TTUR](https://arxiv.org/abs/1706.08500)
+1. [AM-GAN](https://arxiv.org/abs/1703.02000)
+1. [DeePSiM](http://arxiv.org/abs/1602.02644)

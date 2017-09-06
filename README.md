@@ -97,7 +97,7 @@
 
 
 ---
-### Evaluations of GANs
+### Evaluations of GANs <!-- TODO -->
 1. [Inception Score - Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [FCN Score - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)
 1. [AMT Perceptual Studies - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)

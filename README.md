@@ -98,6 +98,7 @@
 
 --- 
 ### Semi-supervised Learning
+1. [CatGAN](https://arxiv.org/abs/1511.06390) - Entropy of $P(Y|X)$
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [Triple-GAN](https://arxiv.org/abs/1703.02291)

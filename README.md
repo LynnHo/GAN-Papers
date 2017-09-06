@@ -5,8 +5,7 @@
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
-1. [ALI](https://arxiv.org/abs/1606.00704) - Match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
-1. [BiGAN](https://arxiv.org/abs/1605.09782) - Same as ALI
+1. [ALI](https://arxiv.org/abs/1606.00704), [BiGAN](https://arxiv.org/abs/1605.09782) - Match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
 
 ---
 ### Frameworks
@@ -15,8 +14,7 @@
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
-1. [ALI](https://arxiv.org/abs/1606.00704) - match p(G(z),z) and q(x,E(x))
-1. [BiGAN](https://arxiv.org/abs/1605.09782) - Same as ALI
+1. [ALI](https://arxiv.org/abs/1606.00704), [BiGAN](https://arxiv.org/abs/1605.09782) - match p(G(z),z) and q(x,E(x))
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation <!-- TODO -->
 1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two-step generation <!-- TODO -->
 1. [AdaGAN](https://arxiv.org/abs/1701.02386) - Multiple generative models <!-- TODO -->
@@ -35,7 +33,7 @@
 1. [InfoGAN](https://arxiv.org/abs/1606.03657)
 
 #### g(Z),Z ~ X,E(X)
-1. [ALI](https://arxiv.org/abs/1606.00704) - match p(G(z),z) and q(x,E(x))
+1. [ALI](https://arxiv.org/abs/1606.00704), [BiGAN](https://arxiv.org/abs/1605.09782) - Match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
 
 
 ---
@@ -87,7 +85,7 @@
 
 #### Specifying Lantern Space Distribution
 1. [AAE](https://arxiv.org/abs/1511.06390)
-1. [ALI](https://arxiv.org/abs/1606.00704) - Match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
+1. [ALI](https://arxiv.org/abs/1606.00704), [BiGAN](https://arxiv.org/abs/1605.09782) - Match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
 1. [BiGAN](https://arxiv.org/abs/1605.09782) - Same as ALI
 1. [AGE](https://arxiv.org/abs/1704.02304)
 

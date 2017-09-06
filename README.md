@@ -11,7 +11,8 @@
 
 ---
 ### Frameworks
-1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
+1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+    - [DCGAN](https://arxiv.org/abs/1511.06434)
 1. [cGAN](arxiv.org/abs/1411.1784) - Label-conditioning generation
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
@@ -28,7 +29,8 @@
 ### Function ('~' means 'match')
 
 #### $g(Z)$ ~ $X$
-1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
+1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+    - [DCGAN](https://arxiv.org/abs/1511.06434)
 
 #### $g(Z|Y)$ ~ $X|Y$, where $Y$ is label or lantern variable
 1. [cGAN](arxiv.org/abs/1411.1784)
@@ -43,7 +45,8 @@
 ### Objective Function
 
 #### f-Divergence
-1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434) - JS divergence
+1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+    - [DCGAN](https://arxiv.org/abs/1511.06434) - JS divergence
 1. [LSGAN (Least Squares GAN)](https://pdfs.semanticscholar.org/0bbc/35bdbd643fb520ce349bdd486ef2c490f1fc.pdf) - Pearson χ2 divergence
 1. [f-GAN](https://arxiv.org/abs/1606.00709) - f-divergence, variational divergence minimization
 1. [f-GANs](https://arxiv.org/abs/1707.04385)

@@ -84,7 +84,6 @@
 #### Specifying Lantern Space Distribution
 1. [AAE](https://arxiv.org/abs/1511.06390)
 1. [ALI](https://arxiv.org/abs/1606.00704), [BiGAN](https://arxiv.org/abs/1605.09782) - Match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
-1. [BiGAN](https://arxiv.org/abs/1605.09782) - Same as ALI
 1. [AGE](https://arxiv.org/abs/1704.02304)
 
 

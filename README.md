@@ -1,13 +1,4 @@
 ---
-### Important Ones
-1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
-1. [cGAN](arxiv.org/abs/1411.1784) - Label-conditioning generation
-1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
-1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
-1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
-1. [ALI](https://arxiv.org/abs/1606.00704), [BiGAN](https://arxiv.org/abs/1605.09782) - Match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
-
----
 ### Frameworks
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
 1. [cGAN](arxiv.org/abs/1411.1784) - Label-conditioning generation

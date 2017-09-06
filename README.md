@@ -1,6 +1,7 @@
 ---
 ### Important Ones
-1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
+1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+    - [DCGAN](https://arxiv.org/abs/1511.06434)
 1. [cGAN](arxiv.org/abs/1411.1784) - Label-conditioning generation
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]

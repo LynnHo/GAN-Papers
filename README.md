@@ -33,7 +33,7 @@
 1. [InfoGAN](https://arxiv.org/abs/1606.03657)
 
 #### g(Z),Z ~ X,E(X)
-1. [ALI](https://arxiv.org/abs/1606.00704), [BiGAN](https://arxiv.org/abs/1605.09782) - Match p(G(z),z) and q(x,E(x)), simultaneously learn an encoder and decoder
+1. [ALI](https://arxiv.org/abs/1606.00704), [BiGAN](https://arxiv.org/abs/1605.09782)
 
 
 ---

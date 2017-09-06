@@ -82,9 +82,7 @@
 
 #### Lantern Space Disentangling
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
-    - Easy comprehension - https://github.com/buriburisuri/sugartensor/blob/master/sugartensor/example/mnist_info_gan.py
-    - Supervised InfoGAN - https://github.com/buriburisuri/supervised_infogan
-    - Official - https://github.com/openai/InfoGAN
+    - [ss-InfoGAN](https://arxiv.org/abs/1707.04487)
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 
 #### Specifying Lantern Space Distribution
@@ -100,7 +98,7 @@
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [Triple-GAN](https://arxiv.org/abs/1703.02291)
-1. [ss-InfoGAN](https://arxiv.org/abs/1707.04487)
+
 
 
 ---

@@ -98,6 +98,8 @@
 
 --- 
 ### Semi-supervised Learning
+1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
+1. [Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [Triple-GAN](https://arxiv.org/abs/1703.02291)
 
 
@@ -179,7 +181,6 @@
 
 ---
 ### Unclassified
-1. [Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [Unrooled GAN](https://arxiv.org/abs/1611.02163)
 1. [MDGAN](https://arxiv.org/abs/1612.02136)
 1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution

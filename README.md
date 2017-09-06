@@ -60,8 +60,8 @@
 1. [EBGAN](https://arxiv.org/abs/1609.03126) - D(x) = ||Dec(Enc(x)) − x||
 1. [LS-GAN (Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
 1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
-1. [Softmax GAN](https://arxiv.org/abs/1704.06191)
 1. [AGE](https://arxiv.org/abs/1704.02304) - max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y) and encoder-generator reciprocity (bidirectional mapping)
+1. [Softmax GAN](https://arxiv.org/abs/1704.06191)
 1. [Cramér GAN](https://arxiv.org/abs/1705.10743) - Cramér Distance
 1. [LDGAN](https://arxiv.org/abs/1705.10743)
 

@@ -112,9 +112,7 @@
 1. [DTN](https://arxiv.org/abs/1611.02200)
 1. [UNIT](arxiv.org/abs/1703.00848)
 1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
-1. [CycleGAN](https://arxiv.org/abs/1703.10593)
-1. [DiscoGAN](https://arxiv.org/abs/1703.05192)
-1. [DualGAN](https://arxiv.org/abs/1704.02510)
+1. [CycleGAN](https://arxiv.org/abs/1703.10593), [DiscoGAN](https://arxiv.org/abs/1703.05192), [DualGAN](https://arxiv.org/abs/1704.02510)
 1. [constrast-GAN](https://arxiv.org/abs/1708.00315)
 ##### Paired
 1. [Scribbler](https://arxiv.org/abs/1612.00835)

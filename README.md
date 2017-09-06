@@ -26,15 +26,15 @@
 ---
 ### Function ('~' means 'match')
 
-#### $g(Z)$ ~ $X$
+#### g(Z) ~ X
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
 
-#### $g(Z|Y)$ ~ $X|Y$, where $Y$ is label or lantern variable
+#### g(Z|Y) ~ X|Y, where Y is label or lantern variable
 1. [cGAN](arxiv.org/abs/1411.1784)
 1. [AcGAN](https://arxiv.org/abs/1610.09585)
 1. [InfoGAN](https://arxiv.org/abs/1606.03657)
 
-#### $g(Z),Z$ ~ $X,E(X)$
+#### g(Z),Z ~ X,E(X)
 1. [ALI](https://arxiv.org/abs/1606.00704) - match p(G(z),z) and q(x,E(x))
 
 
@@ -58,14 +58,14 @@
 1. [MMD nets](https://arxiv.org/abs/1505.03906)
 
 #### Others
-1. [CatGAN](https://arxiv.org/abs/1511.06390) - Entropy of $P(Y|X)$
-1. [EBGAN](https://arxiv.org/abs/1609.03126) - $D(x) = ||Dec(Enc(x)) − x||$
+1. [CatGAN](https://arxiv.org/abs/1511.06390) - Entropy of P(Y|X)
+1. [EBGAN](https://arxiv.org/abs/1609.03126) - D(x) = ||Dec(Enc(x)) − x||
 1. [LS-GAN (Loss-Sensitive GAN)](https://arxiv.org/abs/1701.06264)
     - https://github.com/guojunq
 1. [BEGAN](https://arxiv.org/abs/1703.10717) - Wasserstein distance between the distribution of real/fake auto-encoder loss
     - https://github.com/carpedm20/BEGAN-tensorflow
 1. [Softmax GAN](https://arxiv.org/abs/1704.06191)
-1. [AGE](https://arxiv.org/abs/1704.02304) - $max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y)$ and encoder-generator reciprocity (bidirectional mapping)
+1. [AGE](https://arxiv.org/abs/1704.02304) - max_emin_g\Delta(e(g(Z))||Y)-\Delta(e(X)||Y) and encoder-generator reciprocity (bidirectional mapping)
 1. [Cramér GAN](https://arxiv.org/abs/1705.10743) - Cramér Distance
 1. [LDGAN](https://arxiv.org/abs/1705.10743)
 
@@ -94,7 +94,7 @@
 
 --- 
 ### Semi-supervised Learning
-1. [CatGAN](https://arxiv.org/abs/1511.06390) - Entropy of $P(Y|X)$
+1. [CatGAN](https://arxiv.org/abs/1511.06390) - Entropy of P(Y|X)
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [Triple-GAN](https://arxiv.org/abs/1703.02291)

@@ -129,6 +129,9 @@
 1. [GAWWN](http://papers.nips.cc/paper/6111-learning-what-and-where-to-draw)
 1. [StackGAN](https://arxiv.org/abs/1612.03242)
 
+#### Data Augmentation
+1. [Adversarial Generation of Training Examples for Vehicle License Plate Recognition](https://arxiv.org/abs/1707.03124)
+
 #### Face Editing
 1. [VAE/GAN](https://arxiv.org/abs/1512.09300) - Visual attribute vectors
 1. [CNAI](https://arxiv.org/abs/1608.06434)

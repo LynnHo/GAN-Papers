@@ -69,7 +69,6 @@
 
 #### Lantern Space Disentangling
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
-    - [ss-InfoGAN](https://arxiv.org/abs/1707.04487)
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised lantern space disentangling
 
 #### Specifying Lantern Space Distribution
@@ -104,7 +103,6 @@
 1. [UNIT](arxiv.org/abs/1703.00848)
 1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
 1. [CycleGAN](https://arxiv.org/abs/1703.10593), [DiscoGAN](https://arxiv.org/abs/1703.05192), [DualGAN](https://arxiv.org/abs/1704.02510)
-1. [constrast-GAN](https://arxiv.org/abs/1708.00315)
 ##### Paired
 1. [Scribbler](https://arxiv.org/abs/1612.00835)
 1. [pix2pix/PatchGAN](https://arxiv.org/abs/1611.07004)
@@ -119,7 +117,6 @@
 
 #### Domain Adaptation
 1. [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424)
-1. [Generate To Adapt: Aligning Domains using Generative Adversarial Networks](https://arxiv.org/abs/1704.01705)
 1. [DTN](https://arxiv.org/abs/1611.02200)
 1. [UNIT](arxiv.org/abs/1703.00848)
 1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
@@ -156,8 +153,6 @@
 1. [TVSN](https://arxiv.org/abs/1703.02921) - 3D view synthesis
 1. [ID-CGAN](https://arxiv.org/abs/1701.05957) - Image de-raining
 1. [Image Denoising via CNNs: An Adversarial Approach](https://arxiv.org/abs/1708.00159)
-1. [SCAN](https://arxiv.org/abs/1703.08770) - Organ segmentation
-1. [DI2IN](arxiv.org/abs/1707.08037) - Liver segmentation
 1. [Perceptual GAN](https://arxiv.org/abs/1706.05274) - Small object detection
 
 

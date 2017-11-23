@@ -137,6 +137,7 @@
 1. [Learning Residual Images for Face Attribute Manipulation](https://arxiv.org/abs/1612.05363)
 1. [IcGAN](https://arxiv.org/abs/1611.06355)
 1. [Age-cGAN](https://arxiv.org/abs/1702.01983)
+1. [CFGAN](http://openaccess.thecvf.com/content_cvpr_2017/html/Kaneko_Generative_Attribute_Controller_CVPR_2017_paper.html)
 1. [SL-GAN](https://arxiv.org/abs/1704.02166)
 1. [Fader Networks](https://arxiv.org/abs/1706.00409)
 1. [UNIT](arxiv.org/abs/1703.00848)
@@ -144,6 +145,7 @@
 1. [IAN](https://arxiv.org/abs/1609.07093)
 1. [Neural Face Editing with Intrinsic Image Disentangling](http://arxiv.org/abs/1704.04131)
 1. [Unsupervised Visual Attribute Transfer with Reconfigurable Generative Adversarial Networks](http://arxiv.org/abs/1707.09798)
+1. [ExprGAN](http://arxiv.org/abs/1709.03842)
 
 #### Face Frontalization/Profiling
 1. [DR-GAN](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)

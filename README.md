@@ -22,6 +22,7 @@
 1. [cGAN](arxiv.org/abs/1411.1784)
 1. [AcGAN](https://arxiv.org/abs/1610.09585)
 1. [InfoGAN](https://arxiv.org/abs/1606.03657)
+1. [CFGAN](http://openaccess.thecvf.com/content_cvpr_2017/html/Kaneko_Generative_Attribute_Controller_CVPR_2017_paper.html)
 
 #### g(Z),Z ~ X,E(X)
 1. [ALI](https://arxiv.org/abs/1606.00704), [BiGAN](https://arxiv.org/abs/1605.09782)

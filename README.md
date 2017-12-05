@@ -94,6 +94,7 @@
 1. [FCN Score - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)
 1. [AMT Perceptual Studies - pix2pix](https://arxiv.org/pdf/1611.07004.pdf)
 1. [Semantic Segmentation Metrics - CycleGAN](https://arxiv.org/abs/1703.10593)
+1. [FID, Precision, Recall and F1 Score - Are GANs Created Equal? A Large-Scale Study](http://arxiv.org/abs/1711.10337)
 
 
 ---

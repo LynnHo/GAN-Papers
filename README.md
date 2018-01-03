@@ -107,7 +107,7 @@
 1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
 1. [CycleGAN](https://arxiv.org/abs/1703.10593), [DiscoGAN](https://arxiv.org/abs/1703.05192), [DualGAN](https://arxiv.org/abs/1704.02510)
 1. [Face Transfer with Generative Adversarial Network](http://arxiv.org/abs/1710.06090)
-1. [XGAN](http://arxiv.org/abs/1711.05139)
+1. [XGAN](http://arxiv.org/abs/1711.05139) - Semantic consistency
 ##### Paired
 1. [Scribbler](https://arxiv.org/abs/1612.00835)
 1. [pix2pix/PatchGAN](https://arxiv.org/abs/1611.07004)

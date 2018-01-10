@@ -11,7 +11,6 @@
 1. [MGGAN](http://arxiv.org/abs/1708.02556) - Multiple generative models <!-- TODO -->
 
 
-
 ---
 ### High Resolution
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation

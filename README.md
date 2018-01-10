@@ -158,9 +158,8 @@
 
 #### Others
 1. [iGAN](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_36) - Image manipulation
-1. [TVSN](https://arxiv.org/abs/1703.02921) - 3D view synthesis
+1. [TVSN](https://arxiv.org/abs/1703.02921) - 3D view synthesis <!-- TODO -->
 1. [ID-CGAN](https://arxiv.org/abs/1701.05957) - Image de-raining
-1. [Image Denoising via CNNs: An Adversarial Approach](https://arxiv.org/abs/1708.00159)
 1. [Perceptual GAN](https://arxiv.org/abs/1706.05274) - Small object detection
 
 
@@ -173,7 +172,6 @@
 ### Unclassified
 1. [DeePSiM](http://arxiv.org/abs/1602.02644)
 1. [Unrooled GAN](https://arxiv.org/abs/1611.02163)
-1. [MDGAN](https://arxiv.org/abs/1612.02136)
 1. [SGAN](http://arxiv.org/abs/1612.04357)
 1. [AM-GAN](https://arxiv.org/abs/1703.02000)
 1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution

@@ -7,6 +7,7 @@
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
 1. [ALI](https://arxiv.org/abs/1606.00704), [BiGAN](https://arxiv.org/abs/1605.09782) - match p(G(z),z) and q(x,E(x))
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation <!-- TODO -->
+1. [GMAN](https://arxiv.org/abs/1611.01673) - Multiple discriminator models <!-- TODO -->
 1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two-step generation <!-- TODO -->
 1. [AdaGAN](https://arxiv.org/abs/1701.02386) - Multiple generative models <!-- TODO -->
 1. [MGGAN](http://arxiv.org/abs/1708.02556) - Multiple generative models <!-- TODO -->
@@ -170,9 +171,10 @@
 
 ---
 ### Unclassified
+1. [DeePSiM](http://arxiv.org/abs/1602.02644)
 1. [Unrooled GAN](https://arxiv.org/abs/1611.02163)
 1. [MDGAN](https://arxiv.org/abs/1612.02136)
+1. [SGAN](http://arxiv.org/abs/1612.04357)
+1. [AM-GAN](https://arxiv.org/abs/1703.02000)
 1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
 1. [TTUR](https://arxiv.org/abs/1706.08500)
-1. [AM-GAN](https://arxiv.org/abs/1703.02000)
-1. [DeePSiM](http://arxiv.org/abs/1602.02644)

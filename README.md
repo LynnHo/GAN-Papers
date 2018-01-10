@@ -88,7 +88,6 @@
 1. [Triple-GAN](https://arxiv.org/abs/1703.02291)
 
 
-
 ---
 ### Evaluations of GANs <!-- TODO -->
 1. [Inception Score - Improved GAN](https://arxiv.org/abs/1606.03498)
@@ -128,8 +127,8 @@
 1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
 
 #### Text-to-Image Synthesis
-1. [GAN-INT-CLS](http://proceedings.mlr.press/v48/reed16.pdf)
-1. [GAWWN](http://papers.nips.cc/paper/6111-learning-what-and-where-to-draw)
+1. [GAN-INT-CLS](http://proceedings.mlr.press/v48/reed16.pdf) <!-- TODO -->
+1. [GAWWN](http://papers.nips.cc/paper/6111-learning-what-and-where-to-draw) <!-- TODO -->
 1. [StackGAN](https://arxiv.org/abs/1612.03242)
 
 #### Data Augmentation

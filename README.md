@@ -9,14 +9,14 @@
 1. [GMAN](https://arxiv.org/abs/1611.01673) - Multiple discriminator models <!-- TODO -->
 1. [AdaGAN](https://arxiv.org/abs/1701.02386) - Multiple generative models <!-- TODO -->
 1. [MGGAN](http://arxiv.org/abs/1708.02556) - Multiple generative models <!-- TODO -->
-1. [Progressive Growing of GANs for Improved Quality, Stability, and Variation](http://arxiv.org/abs/1710.10196)
+
 
 
 ---
 ### High Resolution
 1. [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) - Coarse-to-fine generation
-1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two-step generation <!-- TODO -->
-
+1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two-step generation
+1. [PGGAN](http://arxiv.org/abs/1710.10196)
 
 ---
 ### Function ('~' means 'match')

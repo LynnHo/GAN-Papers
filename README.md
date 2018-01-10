@@ -17,6 +17,7 @@
 1. [StackGAN](https://arxiv.org/abs/1612.03242) - Two-step generation
 1. [PGGAN](http://arxiv.org/abs/1710.10196)
 
+
 ---
 ### Function ('~' means 'match')
 

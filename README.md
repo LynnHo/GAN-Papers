@@ -172,6 +172,12 @@
 
 
 ---
+### Survey
+1. [Generative Adversarial Networks: An Overview](http://arxiv.org/abs/1710.07035)
+1. [How Generative Adversarial Nets and its variants Work](http://arxiv.org/abs/1711.05914)
+
+
+---
 ### Unclassified
 1. [DeePSiM](http://arxiv.org/abs/1602.02644)
 1. [Unrooled GAN](https://arxiv.org/abs/1611.02163)

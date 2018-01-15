@@ -1,7 +1,7 @@
 ---
 ### Frameworks
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
-1. [cGAN](arxiv.org/abs/1411.1784) - Label-conditioning generation
+1. [cGAN](https://arxiv.org/abs/1411.1784) - Label-conditioning generation
 1. [AcGAN](https://arxiv.org/abs/1610.09585) - Supervised generation (auxiliary classifier with labels)
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [InfoGAN](https://arxiv.org/abs/1606.03657) - Unsupervised lantern space disentangling
@@ -25,7 +25,7 @@
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)
 
 #### g(Z|Y) ~ X|Y, where Y is label or lantern variable
-1. [cGAN](arxiv.org/abs/1411.1784)
+1. [cGAN](https://arxiv.org/abs/1411.1784)
 1. [AcGAN](https://arxiv.org/abs/1610.09585)
 1. [InfoGAN](https://arxiv.org/abs/1606.03657)
 1. [CFGAN](http://openaccess.thecvf.com/content_cvpr_2017/html/Kaneko_Generative_Attribute_Controller_CVPR_2017_paper.html)
@@ -107,7 +107,7 @@
 #### Image-to-Image Translation
 ##### Unpaired
 1. [DTN](https://arxiv.org/abs/1611.02200)
-1. [UNIT](arxiv.org/abs/1703.00848)
+1. [UNIT](https://arxiv.org/abs/1703.00848)
 1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
 1. [CycleGAN](https://arxiv.org/abs/1703.10593), [DiscoGAN](https://arxiv.org/abs/1703.05192), [DualGAN](https://arxiv.org/abs/1704.02510)
 1. [Face Transfer with Generative Adversarial Network](http://arxiv.org/abs/1710.06090)

@@ -140,7 +140,6 @@
 
 #### Face Editing
 1. [VAE/GAN](https://arxiv.org/abs/1512.09300) - Visual attribute vectors
-1. [CNAI](https://arxiv.org/abs/1608.06434)
 1. [DIAT](https://arxiv.org/abs/1610.05586)
 1. [Learning Residual Images for Face Attribute Manipulation](https://arxiv.org/abs/1612.05363)
 1. [IcGAN](https://arxiv.org/abs/1611.06355)

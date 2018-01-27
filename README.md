@@ -148,6 +148,7 @@
 1. [Age-cGAN](https://arxiv.org/abs/1702.01983)
 1. [UNIT](arxiv.org/abs/1703.00848)
 1. [SL-GAN](https://arxiv.org/abs/1704.02166)
+1. [IAN](https://arxiv.org/abs/1609.07093)
 1. [Neural Face Editing with Intrinsic Image Disentangling](http://arxiv.org/abs/1704.04131)
 1. [GeneGAN](https://arxiv.org/abs/1705.04932) - Object transfiguration 
 1. [Fader Networks](https://arxiv.org/abs/1706.00409)
@@ -155,7 +156,6 @@
 1. [ExprGAN](http://arxiv.org/abs/1709.03842)
 1. [StarGAN](http://arxiv.org/abs/1711.09020)
 1. [GLCA-GAN](http://arxiv.org/abs/1801.08390)
-1. [IAN](https://arxiv.org/abs/1609.07093)
 
 #### Face Frontalization/Profiling
 1. [DR-GAN](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)

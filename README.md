@@ -69,6 +69,7 @@
 1. [DRGAN](https://arxiv.org/abs/1705.07215) - Vanilla GAN with gradient penalty
 1. [Cramér GAN](https://arxiv.org/abs/1705.10743) - Cramér Distance
 1. [Regularized GAN](https://arxiv.org/abs/1705.09367)
+1. [CT-GAN](http://arxiv.org/abs/1803.01541)
 
 
 ---
@@ -90,6 +91,7 @@
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
 1. [Improved GAN](https://arxiv.org/abs/1606.03498)
 1. [Triple-GAN](https://arxiv.org/abs/1703.02291)
+1. [CT-GAN](http://arxiv.org/abs/1803.01541)
 
 
 ---
@@ -169,11 +171,6 @@
 
 
 ---
-### Projects
-1. [Create Anime Characters with A.I. !](http://make.girls.moe/technical_report.pdf)
-
-
----
 ### Survey
 1. [Generative Adversarial Networks: An Overview](http://arxiv.org/abs/1710.07035)
 1. [How Generative Adversarial Nets and its variants Work](http://arxiv.org/abs/1711.05914)
@@ -188,3 +185,8 @@
 1. [AM-GAN](https://arxiv.org/abs/1703.02000)
 1. [DeLiGAN](https://arxiv.org/abs/1706.02071) - Mixture Gaussian prior distribution
 1. [TTUR](https://arxiv.org/abs/1706.08500)
+
+
+---
+### Datasets
+1. [CIFAR10/CIFAR100](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.9220&rep=rep1&type=pdf)

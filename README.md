@@ -189,4 +189,7 @@
 
 ---
 ### Datasets
+1. [MNIST](https://pdfs.semanticscholar.org/eea7/573f64552685cdf8d144ec446c5fff1405fc.pdf)
 1. [CIFAR10/CIFAR100](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.9220&rep=rep1&type=pdf)
+1. [SVHN](https://research.google.com/pubs/pub37648.html)
+1. [CelebA](http://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Deep_Learning_Face_ICCV_2015_paper.pdf)

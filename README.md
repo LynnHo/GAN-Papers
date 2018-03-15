@@ -115,7 +115,7 @@
 1. [UNIT](arxiv.org/abs/1703.00848)
 1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
 
-#### Image Deblurring
+#### Image Denoising
 1. [Deep Semantic Face Deblurring](http://arxiv.org/abs/1803.03345)
 
 #### Image-to-Image Translation

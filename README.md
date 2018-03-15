@@ -180,6 +180,7 @@
 1. [Generative Adversarial Networks: An Overview](http://arxiv.org/abs/1710.07035)
 1. [How Generative Adversarial Nets and its variants Work](http://arxiv.org/abs/1711.05914)
 1. [Comparative Study on Generative Adversarial Networks](http://arxiv.org/abs/1801.04271)
+1. [An Introduction to Image Synthesis with Generative Adversarial Nets](http://arxiv.org/abs/1803.04469)
 
 
 ---

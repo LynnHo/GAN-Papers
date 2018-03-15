@@ -139,7 +139,6 @@
 #### Super-Resolution
 1. [SRGAN](https://arxiv.org/abs/1609.04802)
 
-
 #### Text-to-Image Synthesis
 1. [GAN-INT-CLS](http://proceedings.mlr.press/v48/reed16.pdf) <!-- TODO -->
 1. [GAWWN](http://papers.nips.cc/paper/6111-learning-what-and-where-to-draw) <!-- TODO -->

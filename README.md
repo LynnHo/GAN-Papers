@@ -85,7 +85,7 @@
 1. [AGE](https://arxiv.org/abs/1704.02304)
 
 
---- 
+---
 ### Semi-supervised Learning
 1. [CatGAN](https://arxiv.org/abs/1511.06390)
 1. [SGAN](https://arxiv.org/abs/1606.01583) - D outputs [CLASS-1, CLASS-2, . . . CLASS-N, FAKE]
@@ -106,18 +106,31 @@
 ---
 ### Applications
 
+#### Data Augmentation
+1. [Adversarial Generation of Training Examples for Vehicle License Plate Recognition](https://arxiv.org/abs/1707.03124)
+
+#### Domain Adaptation
+1. [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424)
+1. [DTN](https://arxiv.org/abs/1611.02200)
+1. [UNIT](arxiv.org/abs/1703.00848)
+1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
+
+#### Image Deblurring
+1. [Deep Semantic Face Deblurring](http://arxiv.org/abs/1803.03345)
+
 #### Image-to-Image Translation
 ##### Unpaired
-1. [DTN](https://arxiv.org/abs/1611.02200)
-1. [UNIT](https://arxiv.org/abs/1703.00848)
 1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
+1. [DTN](https://arxiv.org/abs/1611.02200)
 1. [CycleGAN](https://arxiv.org/abs/1703.10593), [DiscoGAN](https://arxiv.org/abs/1703.05192), [DualGAN](https://arxiv.org/abs/1704.02510)
+1. [UNIT](https://arxiv.org/abs/1703.00848)
 1. [Face Transfer with Generative Adversarial Network](http://arxiv.org/abs/1710.06090)
 1. [XGAN](http://arxiv.org/abs/1711.05139) - Semantic consistency
 ##### Paired
-1. [Scribbler](https://arxiv.org/abs/1612.00835)
 1. [pix2pix/PatchGAN](https://arxiv.org/abs/1611.07004)
+1. [Scribbler](https://arxiv.org/abs/1612.00835)
 1. [PAN](https://arxiv.org/abs/1706.09138) - Perceptual adversarial loss
+1. [Cross-View Image Synthesis using Conditional GANs](http://arxiv.org/abs/1710.06090)
 
 #### Inpainting
 1. [Context Encoder](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pathak_Context_Encoders_Feature_CVPR_2016_paper.html)
@@ -126,19 +139,11 @@
 #### Super-Resolution
 1. [SRGAN](https://arxiv.org/abs/1609.04802)
 
-#### Domain Adaptation
-1. [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424)
-1. [DTN](https://arxiv.org/abs/1611.02200)
-1. [UNIT](arxiv.org/abs/1703.00848)
-1. [CoGAN](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks)
 
 #### Text-to-Image Synthesis
 1. [GAN-INT-CLS](http://proceedings.mlr.press/v48/reed16.pdf) <!-- TODO -->
 1. [GAWWN](http://papers.nips.cc/paper/6111-learning-what-and-where-to-draw) <!-- TODO -->
 1. [StackGAN](https://arxiv.org/abs/1612.03242)
-
-#### Data Augmentation
-1. [Adversarial Generation of Training Examples for Vehicle License Plate Recognition](https://arxiv.org/abs/1707.03124)
 
 #### Face Editing
 1. [VAE/GAN](https://arxiv.org/abs/1512.09300) - Visual attribute vectors
@@ -152,7 +157,7 @@
 1. [SL-GAN](https://arxiv.org/abs/1704.02166)
 1. [IAN](https://arxiv.org/abs/1609.07093)
 1. [Neural Face Editing with Intrinsic Image Disentangling](http://arxiv.org/abs/1704.04131)
-1. [GeneGAN](https://arxiv.org/abs/1705.04932) - Object transfiguration 
+1. [GeneGAN](https://arxiv.org/abs/1705.04932) - Object transfiguration
 1. [Fader Networks](https://arxiv.org/abs/1706.00409)
 1. [Unsupervised Visual Attribute Transfer with Reconfigurable Generative Adversarial Networks](http://arxiv.org/abs/1707.09798)
 1. [ExprGAN](http://arxiv.org/abs/1709.03842)

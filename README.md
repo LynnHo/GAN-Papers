@@ -70,6 +70,7 @@
 1. [Cramér GAN](https://arxiv.org/abs/1705.10743) - Cramér Distance
 1. [Regularized GAN](https://arxiv.org/abs/1705.09367)
 1. [CT-GAN](http://arxiv.org/abs/1803.01541)
+1. [Varying k-Lipschitz Constraint for Generative Adversarial Networks](http://arxiv.org/abs/1803.06107)
 
 
 ---

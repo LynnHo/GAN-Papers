@@ -1,3 +1,9 @@
+***Recommendation***
+
+- Our GAN based work for facial attribute editing - https://github.com/LynnHo/AttGAN-Tensorflow.
+
+---
+
 ---
 ### Frameworks
 1. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [DCGAN](https://arxiv.org/abs/1511.06434)

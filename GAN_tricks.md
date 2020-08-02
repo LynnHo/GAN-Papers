@@ -1,6 +1,13 @@
 ---
+### My Experience
+1. Do not use instance norm or layer norm in (at least first layer) D for image
+    - layer norm cause contrast problem
+    - instance norm cause color and contrast problem
+
+
+---
 ### Tricks
-1. Use leaky relu in down-sampling and relu in up-sampling 
+1. Use leaky relu in down-sampling and relu in up-sampling
     - https://arxiv.org/abs/1703.05192
 
 1. Use L1 distance instead of L2 in image reconstruction since L2 often leads blurriness
@@ -9,7 +16,7 @@
     - [pix2pix](https://arxiv.org/abs/1611.07004)
 
 1. Network architectures
-    - 
+    -
 
 1. Optimizing just for similarity in a high-level feature space typically leads to high-frequency artifacts. This is because for each natural image there are many non-natural images mapped to the same feature vector.
     - http://arxiv.org/abs/1602.02644
